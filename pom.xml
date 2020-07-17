@@ -10,6 +10,12 @@
     <packaging>pom</packaging>
     <name>lc-tool</name>
     <description>just a toolbox</description>
+    <url>https://gitee.com/wreath/lc-tool</url>
+    <scm>
+        <connection>https://gitee.com/wreath/lc-tool.git</connection>
+        <developerConnection>https://gitee.com/wreath</developerConnection>
+        <url>https://gitee.com/wreath/lc-tool.git</url>
+    </scm>
 
     <properties>
         <lc-tool.version>0.0.1</lc-tool.version>
