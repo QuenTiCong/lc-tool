@@ -11,7 +11,7 @@
 
     <artifactId>lc-core-mybatis</artifactId>
     <name>${project.artifactId}</name>
-    <version>${lc.tool.version}</version>
+    <version>${lc-tool.version}</version>
     <packaging>jar</packaging>
 
     <dependencies>
