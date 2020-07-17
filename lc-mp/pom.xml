@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lc-core-mybatis</artifactId>
+    <artifactId>lc-mp</artifactId>
     <name>${project.artifactId}</name>
     <version>${lc-tool.version}</version>
     <packaging>jar</packaging>
