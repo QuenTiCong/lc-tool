@@ -38,7 +38,7 @@
     </properties>
 
     <modules>
-        <module>lc-core-mybatis</module>
+        <module>lc-mp</module>
     </modules>
 
     <dependencyManagement>
